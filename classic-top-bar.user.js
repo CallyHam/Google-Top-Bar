@@ -83,7 +83,7 @@ function createtopBar() {
                 <a href="https://photos.google.com">Photos</a>
                 <a href="https://web.archive.org/web/20121118181156id_/http://www.google.com/videohp">Videos</a>
                 <div class="tbSeperator"></div>
-                <a href="https://about.google/intl/en/products/">Even more Â»</a>
+                <a href="https://about.google/intl/en/products/">Even more »</a>
             </div>
         </li>
     </div>
