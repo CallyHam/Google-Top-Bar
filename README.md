@@ -2,7 +2,7 @@
 Userscript/Style to bring back the old top bar to google.
 
 # New Version
-A new version of this script is in the works, for updates, join [this discord server](discord.gg/NcX3rRFHs6)
+A new version of this script is in the works, for updates, join [this discord server](https://discord.gg/NcX3rRFHs6)
 
 # Information
 ![How it looks](https://github.com/CallyHam/Google-Top-Bar/blob/main/preview.png?raw=true)
